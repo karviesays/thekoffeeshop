@@ -75,7 +75,7 @@ header {
 
 /* SHOWCASE */
 #showcase {
- background: linear-gradient(rgba(0, 0, 0,0.5), rgba(0, 0, 0, 0.4)), url(/images/showcase.jpg)no-repeat center center/cover;
+ background: linear-gradient(rgba(0, 0, 0,0.5), rgba(0, 0, 0, 0.4)), url('../images/showcase.jpg')no-repeat center center/cover;
  background-attachment: fixed;
  height: 600px;
 }
@@ -115,7 +115,7 @@ header {
 }
 
 #about .about-img {
- background: url('/images/about.jpg')no-repeat center center/cover;
+ background: url('../images/about.jpg')no-repeat center center/cover;
  width: 50%;
  min-height: 100%;
 }
